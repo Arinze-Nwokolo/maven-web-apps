@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.226.100.146:8000/repository/TD_app_release/</url>
+	      <url>http://54.226.100.146:8000/repository/paypal_application_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.226.100.146:8000/repository/TD_app_snapshot/</url>
+	      <url>http://54.226.100.146:8000/repository/paypal_application_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
